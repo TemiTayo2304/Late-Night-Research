@@ -11,10 +11,15 @@ Sleep is a vital aspect of health and wellbeing, and inadequate sleep has been l
 #OBJECTIVES
 
 The primary objective of this research project is to explore the relationship between late night sleep and the factors responsible, as well as the physical and mental health outcomes among youth aged 13-35.
+
 Specific Objectives include;
+
 •	To identify trends and patterns in the late sleeping habits of youths.
+
 •	To discover the average number of youths that experience sleep disorder.
+
 •	To determine the prevalence of late night sleep habits among youth in the target age group.
+
 •	To identify the effective ways to promote healthy sleep habits among youth.
 
 #RESEARCH QUESTIONS
