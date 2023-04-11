@@ -1,10 +1,10 @@
-#PROJECT TITLE: ANALYZING LATE NIGHT SLEEPING HABITS AMONG YOUTH
+********ANALYZING LATE NIGHT SLEEPING HABITS AMONG YOUTH
 
 EXPECTED START DATE: 11TH OF APRIL 2023
 
 EXPECTED END DATE: 12th OF MAY 2023
 
-##INTRODUCTION
+____INTRODUCTION
 
 Sleep is a vital aspect of health and wellbeing, and inadequate sleep has been linked to various negative health outcomes such as depression, anxiety obesity, and poor academic performance. The National sleep Foundation recommends 8-10 hours of sleep for youth between age 13-18 and 7-9 hours for youth between ages 18-35. Yet, late night sleeping habit is a very common habit in youth as they struggle to get enough sleep. This study aims to investigate the factors responsible and the impact of the late night sleeps on habit their physical and mental health.
 
